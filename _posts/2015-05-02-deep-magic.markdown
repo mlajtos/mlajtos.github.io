@@ -3,6 +3,7 @@ layout: post
 title:  "Deep Magic"
 date:   2015-05-02 23:35:34
 categories: jekyll update
+comments: true
 ---
 
 **This is still a draft. Any feedback is welcome.**
