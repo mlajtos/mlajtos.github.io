@@ -6,7 +6,7 @@ categories: jekyll update
 comments: true
 ---
 
-**This is still a draft. Any feedback is welcome.**
+**This is still a draft of unstructured thoughts. Any feedback is welcome.**
 
 - - -
 
