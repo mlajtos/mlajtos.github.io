@@ -5,6 +5,10 @@ date:   2015-05-02 23:35:34
 categories: jekyll update
 ---
 
+**This is still a draft. Any feedback is welcome.**
+
+- - -
+
 In past few years, Deep Learning started to permeate our daily lives with many extremely useful applications and the number keeps growing every minute. Most of the time we are not even aware of the underlying technology because it works like *magic*. And not only for the end users, but also for practitioners of this deep dark secrets.
 
 # Year After
