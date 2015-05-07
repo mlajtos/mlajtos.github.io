@@ -16,7 +16,7 @@ In past few years, Deep Learning started to permeate our daily lives with many e
 
 Last year I published a short video demonstration of interactive approach to creating and understanding systems based on the connectionist paradigm in cognitive modeling. To put it plainly, it’s an environment that lets you explore artificial neural networks by playing with them. Here is the video if you haven’t see it yet…
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JsyKf_RlWLo" frameborder="0" allowfullscreen></iframe>
+<iframe width="740" height="415" src="https://www.youtube.com/embed/JsyKf_RlWLo" frameborder="0" allowfullscreen></iframe>
 
 So what is it?
 
